@@ -12,5 +12,5 @@
 TX, NY & CA is contributing to 68%
 9. Overall Activation rate is 57.47%
 10. Overall Delinquent rate is 6.07%
-Project Guided by Rishabh Mishra Sir
-Thank you So much !!
+   - Project Guided by Rishabh Mishra Sir
+   -Thank you So much !!
